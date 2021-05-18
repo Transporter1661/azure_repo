@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'trailwebapps'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c4764c346e254acdbaadfbc7012f5544 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_450b4e8e99d64e91bd8c3ed16ffc4af5 }}
         package: .
